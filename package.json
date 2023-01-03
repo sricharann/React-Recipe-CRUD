@@ -1,7 +1,7 @@
 {
   "name": "recipe-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/sricharann/React-Recipe-CRUD",
+  "homepage": "https://sricharann.github.io/React-Recipe-CRUD/",
   "private": true,
   "dependencies": {
     "react": "^16.13.1",
